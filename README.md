@@ -9,10 +9,16 @@ The first example is analogous to the classic maximization example provided in t
 
 The directory Max_Bias has all the files required to run the algorithms and, consequently, files to compare the algorithms with plots. 
 
+## Random MDPs
+
+The second example comprises of generating a hundred random MDPs using mdptoolbox by [pymdptoolbox] (https://github.com/sawcordwell/pymdptoolbox). More specifically, a hundred random MDPs are generated, each with restriction and without restrictions on the structure of the MDPs. Further, using the runfile.py, the algorithms are compared in terms of average error. 
+
 ## Roulette as multi-armed bandit Example
 
-The second example is a classic roulette problem expressed as a single-state multi-armed bandit problem. Once again, the directory roulette has all the files required to run the algorithms and plot the graphs. 
+The third example is a classic roulette problem expressed as a single-state multi-armed bandit problem. Once again, the directory roulette as a multi-armed bandit has all the files required to run the algorithms and plot the graphs. 
 
+
+### One can refer to the paper for any further details regarding the parameters and convergence of the proposed two-step Q-learning algorithm.
 
 
 
