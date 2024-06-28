@@ -17,7 +17,7 @@ The second example comprises of generating a hundred random MDPs using mdptoolbo
 
 #### Step 2: Replace the mdp.py and example.py file in original MDP Toolbox with the updated mdp.py and example.py files provided respectively.
 
-#### Step3: Run runfile.py for the results.
+#### Step 3: Run runfile_mdp.py for the results.
 
 ## Roulette as Multi-Armed Bandit Example
 
