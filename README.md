@@ -13,12 +13,12 @@ The directory Max_Bias has all the files required to run the algorithms and, con
 
 The second example comprises of generating a hundred random MDPs using mdptoolbox by [pymdptoolbox] (https://github.com/sawcordwell/pymdptoolbox). More specifically, a hundred random MDPs are generated, each with restriction and without restrictions on the structure of the MDPs. Further, using the runfile.py, the algorithms are compared in terms of average error. 
 
-## Roulette as multi-armed bandit Example
+## Roulette as Multi-Armed Bandit Example
 
 The third example is a classic roulette problem expressed as a single-state multi-armed bandit problem. Once again, the directory roulette as a multi-armed bandit has all the files required to run the algorithms and plot the graphs. 
 
 
-### One can refer to the paper for any further details regarding the parameters and convergence of the proposed two-step Q-learning algorithm.
+#### One can refer to the paper for any further details regarding the parameters and convergence of the proposed two-step Q-learning algorithm.
 
 
 
@@ -26,7 +26,9 @@ The third example is a classic roulette problem expressed as a single-state mult
 
 ### Acknowledgments
 
-The Max_Bias example and Roulette as multi-armed bandit example are based on and adapted from [The-Mean-Squared-Error-of-Double-Q-Learning](https://github.com/wentaoweng/The-Mean-Squared-Error-of-Double-Q-Learning). 
+The Max_Bias example and Roulette as a multi-armed bandit example are based on and adapted from [The-Mean-Squared-Error-of-Double-Q-Learning](https://github.com/wentaoweng/The-Mean-Squared-Error-of-Double-Q-Learning). 
+
+
 
 
 
