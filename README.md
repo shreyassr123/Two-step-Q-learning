@@ -13,6 +13,12 @@ The directory Max_Bias has all the files required to run the algorithms and, con
 
 The second example comprises of generating a hundred random MDPs using mdptoolbox by [pymdptoolbox] (https://github.com/sawcordwell/pymdptoolbox). More specifically, a hundred random MDPs are generated, each with restriction and without restrictions on the structure of the MDPs. Further, using the runfile.py, the algorithms are compared in terms of average error. 
 
+#### Step 1: Download and Install Python MDP Toolbox from https://pymdptoolbox.readthedocs.io/en/latest/api/mdptoolbox.html.
+
+#### Step 2: Replace the mdp.py and example.py file in original MDP Toolbox with the updated mdp.py and example.py files provided respectively.
+
+#### Step3: Run runfile.py for the results.
+
 ## Roulette as Multi-Armed Bandit Example
 
 The third example is a classic roulette problem expressed as a single-state multi-armed bandit problem. Once again, the directory roulette as a multi-armed bandit has all the files required to run the algorithms and plot the graphs. 
